@@ -57,10 +57,5 @@
   }
 
   
-  .react-multi-carousel-track {
-    @apply margin-bottom: 31px !important;
-  }
-  .react-multi-carousel-track  {
-    @apply gap: 20px !important;
-}
+
 }
